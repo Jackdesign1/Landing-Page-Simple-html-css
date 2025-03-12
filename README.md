@@ -11,10 +11,10 @@ API ini dikembangkan dengan **Laravel** untuk aplikasi **Teman Fitness**, sebuah
 ✅ **Informasi Gerakan Fitness** → Panduan gerakan olahraga  
 
 ## 🛠️ Teknologi yang Digunakan
-Laravel 10
-MySQL / PostgreSQL
-Laravel Sanctum (Autentikasi API)
-Postman (Testing API)
+**Laravel 11**
+**MySQL**
+**Laravel Sanctum (Autentikasi API)**
+**Postman (Testing API)**
 
 ## 🚀 Instalasi  
 
